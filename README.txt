@@ -46,3 +46,7 @@ Comprobar que la base de datos "test_db_2" tiene creada la tabla "clientes" en p
 
 Por defecto se encuentra en: "C:\Program Files\PostgreSQL\14\bin"
 
+######################################################################################
+
+Para correr el ABM: python \capa-de-clientes\menu_usuario.py
+
